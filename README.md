@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ballenejostudio
+- 👋 Hi, I’m Angel
 - 👀 I’m interested in programming, puzzles and Sudoku. 
 
 <!---
